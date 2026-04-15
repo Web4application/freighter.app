@@ -5,7 +5,7 @@
 ## Quick Start Dev Environment Setup
 
 This guide will help you set up your development environment for Freighter
-Mobile.
+Dapp.
 
 ### Prerequisites
 
