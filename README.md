@@ -53,8 +53,8 @@ tools.
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/stellar/freighter-mobile.git
-    cd freighter-mobile
+    git clone https://github.com/web4application/freighter.git
+    cd freighter
     ```
 
 2.  **Install Dependencies:**
@@ -206,7 +206,7 @@ useful for both automated e2e tests and manual testing during development.
    ./e2e/scripts/start-mock-server.sh
    ```
 
-The server will run on `http://localhost:3001` and provide endpoints for:
+The server will run on `http://127.0.0.1:3001` and provide endpoints for:
 
 - Creating WalletConnect sessions
 - Sending sign message requests
